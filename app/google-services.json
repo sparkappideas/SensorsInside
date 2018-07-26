@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45490805794",
+    "firebase_url": "https://sensors-inside.firebaseio.com",
+    "project_id": "sensors-inside",
+    "storage_bucket": "sensors-inside.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45490805794:android:d18d3060921e037e",
+        "android_client_info": {
+          "package_name": "idea.spark.in.sensorsinside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45490805794-8088tpc0edv50imjc6ia9ggj8mrci404.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idea.spark.in.sensorsinside",
+            "certificate_hash": "DD429FE1051D1908C2863645F79E3E03BB712F2E"
+          }
+        },
+        {
+          "client_id": "45490805794-cp41hqchkkekmakgcm8gtq6vflm77ajp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_OGnIwS9siTC3VbmO3ITGcWJF0-b2YE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45490805794-cp41hqchkkekmakgcm8gtq6vflm77ajp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sensors Inside</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="interstitial_result_ad_unit_id">ca-app-pub-4283164631469341/8095836519</string>
+
+    <string name="banner_bottom_ad_unit_id">ca-app-pub-4283164631469341/1600147719</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
